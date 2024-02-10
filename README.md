@@ -3,7 +3,7 @@
 
 ### About Me:
 
-I am an Software Developer residing in Boston 
+I am a Software Developer residing in Boston 
 <!--
 **SydneyGH/SydneyGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
